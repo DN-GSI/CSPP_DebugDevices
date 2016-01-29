@@ -137,6 +137,15 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
 			</Item>
+			<Item Name="Polling Core.vi" Type="VI" URL="../Polling Core.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%Z!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!%2!=!!?!!!J%E.4+SN4;7V.&lt;X2P=CZM&gt;GRJ9B2$5SML5WFN47^U&lt;X)O&lt;(:D&lt;'&amp;T=Q!11V-L+V.J&lt;5VP&gt;'^S)'^V&gt;!!!&amp;E"1!!-!!!!"!!))28*S&lt;X)A37Y!!%*!=!!?!!!J%E.4+SN4;7V.&lt;X2P=CZM&gt;GRJ9B2$5SML5WFN47^U&lt;X)O&lt;(:D&lt;'&amp;T=Q!01V-L+V.J&lt;5VP&gt;'^S)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#3!!!!!!%!#!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107825152</Property>
+			</Item>
 			<Item Name="Pre Launch Init.vi" Type="VI" URL="../Pre Launch Init.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%D!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%2!=!!?!!!J%E.4+SN4;7V.&lt;X2P=CZM&gt;GRJ9B2$5SML5WFN47^U&lt;X)O&lt;(:D&lt;'&amp;T=Q!11V-L+V.J&lt;5VP&gt;'^S)'^V&gt;!!!1E"Q!"Y!!#E31V-L+V.J&lt;5VP&gt;'^S,GRW&lt;'FC&amp;%.4+SN4;7V.&lt;X2P=CZM&gt;G.M98.T!!^$5SML5WFN47^U&lt;X)A;7Y!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!1!"!!%!!9$!!"Y!!!*!!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*)!!!!!!1!(!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
